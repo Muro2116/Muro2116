@@ -106,8 +106,11 @@ Volunteer project developed in a team to support a recycling campaign converting
 # Certifications
 
 Python Programming — SENAI
+
 Data Science Fundamentals (Google Cloud) — SENAI
+
 Cloud Services Deployment (AWS) — SENAI
+
 Power BI — SENAI
 
 ---
