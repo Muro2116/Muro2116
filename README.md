@@ -72,7 +72,7 @@ Interested in building scalable systems, learning new technologies, and contribu
 # Currently Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,go,docker,unity" />
+<img src="https://skillicons.dev/icons?i=linux,go,docker,unity,bots" />
 </p>
 
 ---
