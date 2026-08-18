@@ -51,7 +51,7 @@ Interested in building scalable systems, learning new technologies, and contribu
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
 </p>
 
 ### Cloud
